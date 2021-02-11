@@ -1,0 +1,1 @@
+let yourArray = ['a', 0, true, 1, 2];
